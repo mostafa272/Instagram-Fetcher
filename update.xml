@@ -1,0 +1,18 @@
+﻿<updates>
+	<update>
+		<name>Instagram Fetcher</name>
+		<description>A module for showing the Instagram posts on your website</description>
+		<element>mod_instagramfetcher</element>
+		<type>module</type>
+		<version>1.0</version>
+		<infourl title="Instagram Fetcher">https://github.com/mostafa272/Instagram-Fetcher/issues/1</infourl>
+		<downloads>
+			<downloadurl type="full" format="zip">https://github.com/mostafa272/Instagram-Fetcher/files/1883459/mod_instagramftecher.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<targetplatform name="joomla" version="3.[234567]" />
+		<php_minimum>5.3.10</php_minimum>
+	</update>
+</updates>
