@@ -1,6 +1,12 @@
 # Instagram-Fetcher
 Show your Instagram recent posts on your joomla website.
 
+## UPDATE                         
+                
+German translation written by Pat Finger (@voicenoise) has been added to the extension.
+
+
+
 ## Installation
 Download mod_instagramfetcher.zip file and install it in Joomla. If you download release files, you should extract it to find mod_instagramfetcher.zip                    
 
