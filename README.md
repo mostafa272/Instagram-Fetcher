@@ -15,14 +15,7 @@ Download mod_instagramfetcher.zip file and install it in Joomla. If you download
 To vote or write a review, please visit following link:                      
 https://extensions.joomla.org/extensions/extension/social-web/social-display/instagram-fetcher/
 
-## Buy me a coffee       
-
-**Paypal:**                
-https://paypal.me/MShahiri           
-
-**Bitcoin:**
-                                                                   
-[![Donate with Bitcoin](https://en.cryptobadges.io/badge/small/16f1DStB3YG3R4BMTa1zGYRxN9i7FAqtUX)](https://en.cryptobadges.io/donate/16f1DStB3YG3R4BMTa1zGYRxN9i7FAqtUX)
-                                                   
-  [![Donate with Bitcoin](https://en.cryptobadges.io/badge/big/16f1DStB3YG3R4BMTa1zGYRxN9i7FAqtUX)](https://en.cryptobadges.io/donate/16f1DStB3YG3R4BMTa1zGYRxN9i7FAqtUX)                
+## Donate                    
+Buy a coffee for us        
+https://ko-fi.com/mostafashahiri          
   
