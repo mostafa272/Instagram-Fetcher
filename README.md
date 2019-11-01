@@ -17,5 +17,6 @@ https://extensions.joomla.org/extensions/extension/social-web/social-display/ins
 
 ## Donate                    
 Buy a coffee for us        
-https://ko-fi.com/mostafashahiri          
+https://ko-fi.com/mostafashahiri              
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O5O311089)
   
